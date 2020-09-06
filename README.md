@@ -1,4 +1,8 @@
+<h1>About this App</h1>
+A full stack task management app built with laravel. It has CRUD functionality with the Delete option being a soft delete
+
 Link: http://dry-anchorage-11406.herokuapp.com/
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
